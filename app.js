@@ -13,6 +13,9 @@ app.get("/",(req,res)=>{
     res.render(`index`)
 })
 
+
+
+
 app.get("/info",(req,res)=>{
     data={
         name:'Arman', 
