@@ -1,0 +1,21 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "5pg",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmNik21/Project1.git"
+  },
+  "author": "Arman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmNik21/Project1/issues"
+  },
+  "homepage": "https://github.com/ArmNik21/Project1#readme"
+}
